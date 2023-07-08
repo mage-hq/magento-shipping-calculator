@@ -1,5 +1,5 @@
 # magento-shipping-calculator
-Magento 2 Shipping Calculator enables customers to check shipping cost on product page. Customers can quickly estimate the cost including shipping and checkout with easily.
+Magento 2 Shipping Calculator extension lets customers see shipping costs on product page. Customers can fast estimate the cost with shipping and pay easily
 
 Please go to https://magehq.com/shipping-calculator.html buy extension
 
